@@ -1,4 +1,4 @@
-# Python codes for extracting audio-based features described in Section 4.2
+# Python codes for extracting language-based bert features described in Section 4.2
 import os
 os.environ['TF_XLA_FLAGS'] = '--tf_xla_enable_xla_devices'
 

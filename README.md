@@ -22,6 +22,8 @@ Directories:
 
 (3) For other data postprocessing details, please refer to my another personal repo: https://github.com/yingbo-ma/Daily-Research-Testing
 
+(4) Images: this folder contains the images displaying each feature's variation over time. We only provided feature: *head_distance* in the paper since it is the only significant feature found in this study; here we also plots the variations for other non-significant features.
+
 <h2>Prerequisites</h2>
 <p>Basics</p>
 <pre>
